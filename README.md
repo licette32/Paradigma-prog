@@ -65,7 +65,7 @@ Los algoritmos están guardados en formato `.psc` y organizados por práctica. C
 ## 👩‍💻 Autor/a
 
 > Beverly Gonzalez C.  
-> Estudiante de Tecnicatura en Ciencia de Datos e Inteligencia Artificial
+> Tec. Sup. en Ciencia de Datos e Inteligencia Artificial
 
 ---
 
